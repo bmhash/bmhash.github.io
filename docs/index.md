@@ -1,6 +1,10 @@
 # Management from the Trenches
-Tales from project along the way and lessons learned
 
-## Commands
+A repo with case-oriented for lessons learned
 
-* This is the first line item - Manually created by ME!
+## Table of Contents
+
+* Problem statement and background
+* Identify Root(s) Cause(s)
+* Devise Action Plans
+* Derive Lessons Learned
