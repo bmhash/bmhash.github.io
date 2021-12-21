@@ -8,7 +8,7 @@ theme:
         primary: indigo
         accent: deep orange
     font:
-        text:
+      text:
         code: Roboto Mono
 
 extra_css:
