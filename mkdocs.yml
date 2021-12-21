@@ -1,16 +1,9 @@
 site_name: Management from the Trenches
 theme:
  name: material
-  palette: 
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
-  accent: deep orange
+  palette:
+   primary: indigo
+   accent: deep orange
   font:
     text:
       code: Roboto Mono
