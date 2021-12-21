@@ -1,7 +1,6 @@
 site_name: Management from the Trenches
 theme:
  name: material
-theme:
   palette: 
     - scheme: default
       toggle:
