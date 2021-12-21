@@ -4,9 +4,5 @@ site_description: A repo with lessons learned on managing projects
 
 theme:
     name: material
-      palette:
-        primary: indigo
-        accent: deep orange
-    font:
-      text:
-        code: Roboto Mono
+    palette:
+      primary: indigo
