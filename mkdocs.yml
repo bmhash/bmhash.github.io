@@ -10,6 +10,3 @@ theme:
     font:
       text:
         code: Roboto Mono
-
-extra_css:
-    - css/extra.css
