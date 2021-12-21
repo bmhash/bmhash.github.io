@@ -6,3 +6,4 @@ theme:
     name: material
     palette:
       primary: indigo
+      accent: deep orange
