@@ -3,6 +3,7 @@ theme:
  name: material
   palette:
    primary: indigo
+  palette:
    accent: deep orange
   font:
     text:
