@@ -1,6 +1,6 @@
 # About Me
 
-I am Bernardo Marques, father of a baby girl and  and I live in Porto, Portugal. I'm also a rock climber and an amateur DJ (vinyl, baby!) and an avid reader (aspiring to be a writer, somewhere along the line).
+I am Bernardo Marques, father of a baby girl and currently living in Porto, Portugal with my sweetheart. I'm also a rock climber and an amateur DJ (vinyl, baby!) and an avid reader (aspiring to be a writer, somewhere along the line).
 
 Professionally, I'm a Project Manager with 11 years of experience, always within the IT world, and started as a trainer, tester, business analyst and, fianlly moved to the Project/Program Management world throughout this period and within a few industries, such as Healthcare, Retail and Ecommerce, Geographic Information Systems, Oil & Gas, Financial Services and Food.
 
