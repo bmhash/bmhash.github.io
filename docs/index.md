@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSE Code-With Engineering Playbook
 
 An engineer working for a [CSE](CSE.md) project...
@@ -64,3 +65,13 @@ The [structure of a sprint](SPRINT-STRUCTURE.md) is a breakdown of the sections 
 ## Contributing
 
 See [CONTRIBUTING.md](https://github.com/microsoft/code-with-engineering-playbook/tree/master/CONTRIBUTING.md) for contribution guidelines.
+=======
+# Management from the Trenches
+## A repo with lessons learned after much sweat and blood  
+  
+# Table of Contents
+* Problem statement and background
+* Identify Root(s) Cause(s)
+* Devise Action Plans
+* Derive Lessons Learned
+>>>>>>> f237704bc800a29494cdde7971119e2b042f8cab
