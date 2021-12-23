@@ -1,11 +1,14 @@
-# CSE Code-With Engineering Playbook
+# The Management from the Trenches Playbook
 
-An engineer working for a [CSE](CSE.md) project...
+A Project Manager is a role that has a different meaning, in terms of reponsibilities, skill set, authority and range of action when working on any initiative.
 
-* Has responsibilities to their team – mentor, coach, and lead.
-* Knows their **playbook**. Follows their playbook. Fixes their playbook if it is broken. If they find a better playbook, they copy it. If somebody could use their playbook, they share it.
-* Leads by example. Models the behaviors we desire both interpersonally and technically.
-* Strives to understand how their work fits into a broader context and ensures the outcome.
+A few characteristics that can be found on a Project Manager are:
+
+* Has responsibilities to their team and taking on different roles depending on the context and situation at the time - mentor, coach, (servant) lead.
+* Knows their **playbook** or if one does not exist, it creates a structure of sorts to allow for a more focused approach to their work.
+* Rely on continuous improvement through constant learning and introspection to have enough data to obtain insights into what needs to be sustained, what needs to be improved and what needs to be abandoned.
+* Leads by example. Models the behaviors we desire both interpersonally and technically with a servant leadership as a mindset.
+* Strives to understand how their work fits into a broader context and ensures the outcome by assisting the team in delivering value to the Customer.
 
 This is our playbook. All contributions are welcome! Please feel free to submit a pull request to get involved.
 
