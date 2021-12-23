@@ -1,9 +1,15 @@
-# Who We Are
+# About Me
 
-Our team, CSE (Commercial Software Engineering), works side by side with customers to help them tackle their toughest technical problems both in the cloud and on the edge. We meet customers where they are, work in the languages they use, with the open source frameworks they use, on the operating systems they use. We work with enterprises and start-ups across many industries from financial services to manufacturing. Our work covers a broad spectrum of domains including IoT, machine learning, and high scale compute. Our "superpower" is that we work closely with both our customers’ engineering teams and Microsoft’s product engineering teams, developing real-world expertise that we can use to help our customers grow their business and help Microsoft improve our products and services.
+I am Bernardo Marques, father of a baby girl and  and I live in Porto, Portugal. I'm also a rock climber and an amateur DJ (vinyl, baby!) and an avid reader (aspiring to be a writer, somewhere along the line).
 
-We are very community focused in our work, with one foot in Microsoft and one foot in the open source communities that we help. We make pull requests on open source projects to add support for Microsoft platforms and/or improve existing implementations. We build frameworks and other tools to make it easier for developers to use Microsoft platforms. We source all the ideas for this work by maintaining very deep connections with these communities and the customers and partners that use them.
+Professionally, I'm a Project Manager with 11 years of experience, always within the IT world, and started as a trainer, tester, business analyst and, fianlly moved to the Project/Program Management world throughout this period and within a few industries, such as Healthcare, Retail and Ecommerce, Geographic Information Systems, Oil & Gas, Financial Services and Food.
 
-If you like variety, coding in many languages, using any available tech across our industry, digging in with our customers, hack fests, occasional travel, and telling the story of what you’ve done in [blog posts](https://www.microsoft.com/developerblog/) and at conferences, then come talk to us.
+From all the accumulated work experience and several training/certifications and related study and reading, I feel like I'm on the perfect timing to start structuring and publishing all this knowledge and share it with the world.
 
-> You can check out some of our work on our [Developer Blog](https://www.microsoft.com/developerblog/)
+This will serve two goals:
+1. It's a way to systematise all the knowledge I have so far and see if I really understood the concepts (following the Faynman's technique to lear anything - "explain it until you know it" - this is my own quote to sum up the teachings)
+2. Share my experience in a way that can be utilised by anyone that has an interest in it or trying to get practical knowledge on specific topics
+
+That leads to the vision of continuous learning and improving of oneself to be the best person one can be.
+
+> I also publish a newsletter format that can be subscribed at: [Substack](https://mgmtintrenches.substack.com/)
