@@ -6,7 +6,7 @@ This map is intended to document and ensure clarity around the fundamentals of P
 
 - under construction.
 
-More details on [link](http://localhost)
+More details on [Value](material/value)
 
 ## Stakeholders
 
