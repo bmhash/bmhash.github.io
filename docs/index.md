@@ -1,5 +1,5 @@
 # The Management from the Trenches Playbook
-A Field Guide for troubling times
+*A Field Guide for troubling and anxious times*\n
 
 
 A Project Manager is a role that has a different meaning, in terms of reponsibilities, skill set, authority and range of action when working on any initiative.
