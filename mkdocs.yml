@@ -7,5 +7,3 @@ theme:
     palette:
       primary: indigo
       accent: deep orange
-    font:
-      text: Oswald
