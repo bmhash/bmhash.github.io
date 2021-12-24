@@ -30,21 +30,21 @@ Following the vision for the playbook, there is a need to set goals and objetive
 
 ## Project Management Domains
 
-* [Value](value/index.md)
-* [Stakeholderes](stakeholders/index.md)
-* [Team](team/index.md)
-* [Development Approach and Life Cycle](development-approach-lifecycle/index.md)
-* [Planning](planning/index.md)
-* [Work and Delivery](work-delivery/index.md)
-* [Performance Measurement and Review](performance-measurement-review/index.md)
-* [Uncertainty and Complexity](uncertainty-complexity/index.md)
-* [Communication and Information Flow](communication-info-flow/index.md)
-* [Change Management](change-management/index.md)
+* [Value](value/README.md)
+* [Stakeholderes](stakeholders/README.md)
+* [Team](team/README.md)
+* [Development Approach and Life Cycle](development-approach-lifecycle/README.md)
+* [Planning](planning/README.md)
+* [Work and Delivery](work-delivery/README.md)
+* [Performance Measurement and Review](performance-measurement-review/README.md)
+* [Uncertainty and Complexity](uncertainty-complexity/README.md)
+* [Communication and Information Flow](communication-info-flow/README.md)
+* [Change Management](change-management/README.md)
 
 
 ## Fundamentals for Related Domain Areas
 
-* [Quality](quality/index.md)
+* [Quality](quality/README.md)
 
 
 ## Glossary of Terms
