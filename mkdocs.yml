@@ -8,4 +8,4 @@ theme:
       primary: indigo
       accent: deep orange
     font:
-      text: Archivo Narrow
+      text: Roboto Mono
