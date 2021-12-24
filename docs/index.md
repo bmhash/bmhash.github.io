@@ -1,4 +1,6 @@
 # The Management from the Trenches Playbook
+A Field Guide for troubling times
+
 
 A Project Manager is a role that has a different meaning, in terms of reponsibilities, skill set, authority and range of action when working on any initiative.
 
@@ -21,9 +23,9 @@ The idea behind this playbook on aspects of management around projects is focuse
 Following the vision for the playbook, there is a need to set goals and objetives that allow to continuously sustain and thrive to implement it a little further. Thus, the main goals for the playbook are:
 
 * To help set the tone for the team dynamics and the way of working for a common understanding on the values, principles and general and specific concepts around them.
-* To increase overall efficiency for team members and the whole team in general.
-* To reduce the number of mistakes and avoid common pitfalls.
-* To strive to be better engineers and learn from other people's shared experience.
+* To improve overall efficiency and effectiveness for team members and the whole team as a cohesive ensemble.
+* To reduce the number of mistakes and avoid common pitfalls through a quality first mindset.
+* To improve both hard and soft skills while contributing and sharing knowledge.
 
 
 ## "The" Checklist
