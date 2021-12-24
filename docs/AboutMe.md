@@ -4,6 +4,8 @@ I am Bernardo Marques, father of a baby girl and currently living in Porto, Port
 
 Professionally, I'm a Project Manager with 11 years of experience, always within the IT world, and started as a trainer, tester, business analyst and, fianlly moved to the Project/Program Management world throughout this period and within a few industries, such as Healthcare, Retail and Ecommerce, Geographic Information Systems, Oil & Gas, Financial Services and Food.
 
+> More info on my (LinkedIn Profile](https://www.linkedin.com/in/bamarques/)
+
 From all the accumulated work experience and several training/certifications and related study and reading, I feel like I'm on the perfect timing to start structuring and publishing all this knowledge and share it with the world.
 
 This will serve two goals:
