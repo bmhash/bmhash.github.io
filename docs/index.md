@@ -28,13 +28,30 @@ Following the vision for the playbook, there is a need to set goals and objetive
 * To improve both hard and soft skills while contributing and sharing knowledge.
 
 
-## "The" Checklist
+## Project Management Domains
 
-If you do nothing else follow the [Engineering Fundamentals Checklist](ENG-FUNDAMENTALS-CHECKLIST.md)!
+* [Value](value/index.md)
+* [Stakeholderes](stakeholders/index.md)
+* [Team](team/index.md)
+* [Development Approach and Life Cycle](development-approach-lifecycle/index.md)
+* [Planning](planning/index.md)
+* [Work and Delivery](work-delivery/index.md)
+* [Performance Measurement and Review](performance-measurement-review/index.md)
+* [Uncertainty and Complexity](uncertainty-complexity/index.md)
+* [Communication and Information Flow](communication-info-flow/index.md)
+* [Change Management](change-management/index.md)
 
-## Structure of a Sprint
 
-The [structure of a sprint](SPRINT-STRUCTURE.md) is a breakdown of the sections of the playbook according to the structure of an Agile sprint.
+## Fundamentals for Related Domain Areas
+
+* [Quality](quality/index.md)
+
+
+## Glossary of Terms
+
+There are a lot of concepts and definitions that need to be accounted for to better navigate the project management terrain.
+Please find a 'living repo' in [here](PM-domains.md).
+
 
 ## General Guidance
 
@@ -49,31 +66,12 @@ The [structure of a sprint](SPRINT-STRUCTURE.md) is a breakdown of the sections 
 * Report product issues found and provide clear and repeatable engineering feedback!
 * We all own our code and each one of us has an obligation to make all parts of the solution great.
 
+
 ## QuickLinks
 
-* [Engineering Fundamentals Checklist](ENG-FUNDAMENTALS-CHECKLIST.md)
-* [Structure of a Sprint](SPRINT-STRUCTURE.md)
+* [Glossary of Terms](PM-domains.md)
 
-## Engineering Fundamentals
 
-* [Agile Development](agile-development/README.md)
-* [Automated Testing](automated-testing/README.md)
-* [Code Reviews](code-reviews/README.md)
-* [Continuous Delivery (CD)](continuous-delivery/README.md)
-* [Continuous Integration (CI)](continuous-integration/README.md)
-* [Design](design/README.md)
-* [Developer Experience](developer-experience/README.md)
-* [Documentation](documentation/README.md)
-* [Engineering Feedback](engineering-feedback/README.md)
-* [Observability](observability/README.md)
-* [Reliability](reliability/README.md)
-* [Security](security/README.md)
-* [Source Control](source-control/README.md)
+## About myself and the idea behind this project
 
-## Fundamentals for Specific Technology Areas
-
-* [Machine Learning Fundamentals](machine-learning/README.md)
-
-## Contributing
-
-See [CONTRIBUTING.md](https://github.com/microsoft/code-with-engineering-playbook/tree/master/CONTRIBUTING.md) for contribution guidelines.
+Please see [About Me and this Project](AboutMe.md) for more details about who I am and the idea that started this project.

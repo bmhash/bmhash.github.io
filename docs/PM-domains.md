@@ -12,52 +12,52 @@ More details on [Value](value/index.md)
 
 - under construction.
 
-More details on [link](stakeholders/index.md)
+More details on [Stakeholders](stakeholders/index.md)
 
 ## Team
 
 - under construction.
 
-More details on [link](team/index.md)
+More details on [Team](team/index.md)
 
 ## Development Approach and Life cycle
 
 - under construction.
 
-More details on [link](development-approach-lifecycle/index.md)
+More details on [Development Approach and Life Cycle](development-approach-lifecycle/index.md)
 
 ## Planning
 
 - under construction.
 
-More details on [link](planning/index.md)
+More details on [Planning](planning/index.md)
 
 ## Work and Delivery
 
 - under construction.
 
-More details on [link](work-delivery/index.md)
+More details on [Work and Delivery](work-delivery/index.md)
 
 ## Performance Measurement and Review
 
 - under construction.
 
-More details on [link](performance-measurement-review/index.md)
+More details on [Performance Measurement and Review](performance-measurement-review/index.md)
 
 ## Uncertainty and Complexity
 
 - under construction.
 
-More details on [link](uncertainty-complexity/index.md)
+More details on [Uncertainty and Complexity](uncertainty-complexity/index.md)
 
 ## Communication and Information Flow
 
 - under construction.
 
-More details on [link](communication-info-flow/index.md)
+More details on [Communication and Information Flow](communication-info-flow/index.md)
 
 ## Change Management
 
 - under construction.
 
-More details on [link](change-management/index.md)
+More details on [Change Management](change-management/index.md)
