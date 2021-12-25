@@ -1,5 +1,5 @@
-# Management from the Trenches
-*A Field Guide for troubling and anxious times*
+# Mangement from the Trenches 
+*A Field Guide for troubling and anxious times*  
 
 
 A Project Manager is a role that has a different meaning, in terms of reponsibilities, skill set, authority and range of action when working on any initiative.
