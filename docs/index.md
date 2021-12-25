@@ -1,4 +1,4 @@
-# The Management from the Trenches Playbook
+# The Management from the Trenches
 *A Field Guide for troubling and anxious times*
 
 
