@@ -7,3 +7,4 @@ theme:
     palette:
       primary: indigo
       accent: deep orange
+    logo: material/.icons/mgmttrenches_logow.png
