@@ -7,4 +7,4 @@ theme:
     palette:
       primary: indigo
       accent: deep orange
-    logo: images/favicon.png
+    logo: material/assets/images/favicon.png
