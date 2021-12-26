@@ -59,7 +59,7 @@ This roadmap is an exercise that starts with idea storming, in a collective mann
 
 The common thread of all this 3 items are patterns - information transformed into captured knowledge that allows us to understand the organisational capabilities.
 
-![Alt](material/images/orgpatterns.png "Organisational Patterns")
+![Alt](bmhash/bmhash.github.io/material/assets/images/orgpatterns.png "Organisational Patterns")
 
 The **roadmap** is made up of:
 
