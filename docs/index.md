@@ -61,6 +61,7 @@ Please find a 'living repo' in [here](PM-domains.md).
 ## References
 
 This playbook draws on many sources and all the information contained herein is the sole reponsability of its author. This site is not affiliated with any of the following sources although it does reference and its influence is clear:
+
 * Project Management Institute (PMI), available [here](http://pmi.org)
 
 * Center for Agile Leadership, available [here](https://centerforagileleadership.com/)
