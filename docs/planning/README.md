@@ -1,4 +1,4 @@
-# Planning
+# General Overview
 
 > “Plans are nothing. Planning is everything.”
 
