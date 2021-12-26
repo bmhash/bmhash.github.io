@@ -75,7 +75,7 @@ The roadmap is a tool that enables us to have a bird’s eye view of what, how a
 
 The tactical approach, spearheaded by program/project management as a method to handle initiatives or needed changes, is to tackle the complexity and breadth of the objective(s) and scope. This means that one needs to decide if there is a need to breakdown the scope into several projects that are interrelated and dependent (program approach) or if a large major project will be the best option to obtain synergies.
 
-![Alt](images/roadmap_path2.png "Roadmap Breakdown")
+![Alt](images/roadmap_path2.jpeg "Roadmap Breakdown")
 
 The complexity, level of risk, effort and skills needed might justify breaking down the initial path into smaller ones (into 4 as our example above) and chart a project for each one.
 
