@@ -59,7 +59,7 @@ This roadmap is an exercise that starts with idea storming, in a collective mann
 
 The common thread of all this 3 items are patterns - information transformed into captured knowledge that allows us to understand the organisational capabilities.
 
-![Alt](bmhash/bmhash.github.io/material/assets/images/orgpatterns.png "Organisational Patterns")
+![Alt](images/orgpatterns.png "Organisational Patterns")
 
 The **roadmap** is made up of:
 
@@ -69,13 +69,13 @@ The **roadmap** is made up of:
 
 * the *course of action* that we need to take in order to keep focus on what we need to obtain - since we’re refining the objectives that ultimately lead to the outcomes and keeping score of what is in our scope, we also need to keep adjusting the path along the way in terms of both strategic and tactical decisions.
 
-![Alt](material/images/roadmap_path1.png "Roadmap Overall")
+![Alt](images/roadmap_path1.png "Roadmap Overall")
 
 The roadmap is a tool that enables us to have a bird’s eye view of what, how and where we are going, which is the start for us to really begin to detail and move into the tactical domain.
 
 The tactical approach, spearheaded by program/project management as a method to handle initiatives or needed changes, is to tackle the complexity and breadth of the objective(s) and scope. This means that one needs to decide if there is a need to breakdown the scope into several projects that are interrelated and dependent (program approach) or if a large major project will be the best option to obtain synergies.
 
-![Alt](material/images/roadmap_path2.png "Roadmap Breakdown")
+![Alt](images/roadmap_path2.png "Roadmap Breakdown")
 
 The complexity, level of risk, effort and skills needed might justify breaking down the initial path into smaller ones (into 4 as our example above) and chart a project for each one.
 
