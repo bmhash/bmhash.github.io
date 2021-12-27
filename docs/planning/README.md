@@ -1,4 +1,4 @@
-# General Overview
+# Overview
 
 > “Plans are nothing. Planning is everything.”
 
@@ -39,7 +39,7 @@ And here lies the complexity. Think of it as *“trying to build a plane in mid-
 
 * Do not mistake the medium for the message - it’s not the plan in itself that matters but the layout to the direction towards the outcomes, hence the need to have a baseline to compare to once things get moving;
 
-## What constitutes planning and how can we built one
+## What are the key elements in planning
 
 Let’s first go over the dimensions and elements of planning while also detailing its own process where it unfolds.
 

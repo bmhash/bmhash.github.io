@@ -30,6 +30,8 @@ Following the vision for the playbook, there is a need to set goals and objetive
 
 ## Project Management Domains
 
+The following domains follow the latest version of the [Project Management Body of Knowledge (PMBoK)](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok), now in it's seventh version, after a merge with the agile philosophy to be current with all the trends and practices established and following in the field. Hence, this is a good place to start in terms of structuring all the information and knowledge around project management. However, since pratice and theory work in conjunction and is constantly flowing, this list might change over time:
+
 * [Value](value/README.md)
 * [Stakeholderes](stakeholders/README.md)
 * [Team](team/README.md)
