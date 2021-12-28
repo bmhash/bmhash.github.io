@@ -64,13 +64,13 @@ Please find a 'living repo' in [here](PM-domains.md).
 
 This playbook draws on many sources and all the information contained herein is the sole reponsability of its author. This site is not affiliated with any of the following sources although it does reference and its influence is clear:
 
-* Project Management Institute (PMI), available [here](http://pmi.org)
+* Project Management Institute (PMI), available <a href="http://pmi.org" target="_blank">here</a>
 
-* Center for Agile Leadership, available [here](https://centerforagileleadership.com/)
+* Center for Agile Leadership, available <a href="https://centerforagileleadership.com/" target="_blank">here</a>
 
-* Antonio Nieto-Rodriguez (ANR), available [here](https://antonionietorodriguez.com/)
+* Antonio Nieto-Rodriguez (ANR), available <a href="https://antonionietorodriguez.com/" target="_blank">here</a>
 
-* Ricardo Viana Vargas, available [here](https://ricardo-vargas.com/pt/)
+* Ricardo Viana Vargas, available <a href="https://ricardo-vargas.com/pt/" target="_blank">here</a>
 
 
 And many others... (this list is constantly updated once an article is added or updated).
