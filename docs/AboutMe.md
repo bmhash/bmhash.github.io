@@ -14,7 +14,7 @@ And then… with all of this going on, another idea started to form - take this 
 
 This will serve **two goals**:  
 
-1. It's a way to systematise all the knowledge I have so far and see if I really understood the concepts (following the Faynman's technique to lear anything - "explain it until you know it" - this is my own quote to sum up the teachings)  
+1. It's a way to structure all the knowledge I have so far and see if I really understood the concepts (following the Faynman's technique to lear anything - "explain it until you know it" - this is my own quote to sum up the teachings)  
 2. Share my experience in a way that can be utilised by anyone that has an interest in it or trying to get practical knowledge on specific topics
 
 That leads to the vision of continuous learning and improving of oneself to be the best person one can be.
