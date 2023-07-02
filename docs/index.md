@@ -1,4 +1,4 @@
-# Mangement from the Trenches 
+# Management from the Trenches 
 
 ## *A Field Guide for troubling and anxious times*  
 
