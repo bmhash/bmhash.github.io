@@ -79,4 +79,4 @@ And many others... (this list is constantly updated once an article is added or 
 
 ## About myself and the idea behind this project
 
-Please see [About Me and this Project](AboutMe.md) for more details about who I am and the idea that started this project.
+Please see [About Me and this Project](AboutMe.md) for more details about who I am and the idea behind this project.
