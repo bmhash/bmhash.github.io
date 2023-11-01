@@ -12,7 +12,7 @@ My career has then spanned from doing projects in Healthcare, Retail, Logistics 
 
 And then… with all of this going on, another idea started to form - take this knowledge and accumulated experience and give it a structure to increase effectiveness and efficacy as a continuous improvement for myself while also sharing this out there.
 
-This will serve **two goals**:  
+This will serve **three goals**:  
 
 1. It's a way to structure all the knowledge I have so far and see if I really understood the concepts (following the Faynman's technique to lear anything - "explain it until you know it" - this is my own quote to sum up the teachings)  
 2. Share my experience in a way that can be utilised by anyone that has an interest in it or trying to get practical knowledge on specific topics
